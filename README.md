@@ -10,13 +10,13 @@ This project controls 8 LEDs connected to a PIC16F887 microcontroller. The LEDs 
 ![All LEDs Off](circuit/8_led_off.png)
 
 **2. All LEDs On:**
-![All LEDs On](8_led_on.png)
+![All LEDs On](circuit/8_led_on.png)
 
 **3. 4 LEDs On, 4 LEDs Off:**
-![4 LEDs On, 4 LEDs Off](4_led_on_4_off_1.png)
+![4 LEDs On, 4 LEDs Off](circuit/4_led_on_4_off_1.png)
 
 **4. 4 LEDs Off, 4 LEDs On:**
-![4 LEDs Off, 4 LEDs On](4_led_on_4_off_2.png)
+![4 LEDs Off, 4 LEDs On](circuit/4_led_on_4_off_2.png)
 
 *The circuit schematic for 8 LEDs.*
 
